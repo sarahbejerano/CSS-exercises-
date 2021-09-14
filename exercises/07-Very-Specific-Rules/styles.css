@@ -1,3 +1,15 @@
+.li2 {
+	background-color: green;
+}
+
+.ul1 li {
+	color: red;
+}
+
+table tr:nth-child(even) {
+	background-color: yellow;
+}
+
 /** Insert your code here **/
 
 /*********** READ ONLY BLOCK ******
